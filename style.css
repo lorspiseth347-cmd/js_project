@@ -1,0 +1,6 @@
+.hover:hover {
+  text-decoration: underline;
+}
+.hover:active {
+  color: yellow;
+}
